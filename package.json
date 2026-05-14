@@ -1,0 +1,24 @@
+{
+  "name": "memprediksi-cuaca-dan-gempa-34-provinsi",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "chart.js": "^4.4.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "leaflet": "^1.9.4",
+    "mysql2": "^3.22.3"
+  },
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
+}
